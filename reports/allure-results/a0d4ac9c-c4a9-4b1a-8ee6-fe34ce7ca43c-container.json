@@ -1,0 +1,1 @@
+{"uuid": "d729d83a-9d5c-40d3-a1d8-e59841cf72b9", "children": ["b6f4cb45-a8d2-450f-98e1-e3f46b45d8b6"], "befores": [{"name": "init_class_var", "status": "passed", "start": 1789190954204, "stop": 1789190954204}], "afters": [{"name": "init_class_var::<lambda>", "start": 1789190954754}], "start": 1789190954204, "stop": 1789190954754}
